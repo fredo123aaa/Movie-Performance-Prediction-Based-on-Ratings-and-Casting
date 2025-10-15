@@ -14,7 +14,7 @@ This repository explores the relationship between a film’s economic performanc
 
 ## Notebooks & key files
 
-The repository contains multiple notebooks and datasets (notebook names listed as in the repo): citeturn2view0turn2view1turn2view2
+The repository contains multiple notebooks and datasets (notebook names listed as in the repo):
 
 - `DataIMDb.ipynb` — likely responsible for downloading or collecting data from IMDb and other sources; initial data inspection and saving raw outputs.  
 - `Extractfilminformation.ipynb` — scripts to extract structured film information (title, year, cast, crew, genres, ratings, links).  
@@ -22,7 +22,7 @@ The repository contains multiple notebooks and datasets (notebook names listed a
 - `filmInformation.ipynb` — additional processing / aggregation of film metadata, possibly joining cast and ratings to the main dataset.  
 - `fredotests.ipynb` — experimental notebooks for modeling and sanity checks.  
 - `final_cleaned_movies_data_f.csv`, `finaldata.csv`, and other CSVs — processed datasets ready for analysis or modeling.  
-- `Final_Presentation.pdf` — the project presentation with results, charts, and conclusions. citeturn0view0
+- `Final_Presentation.pdf` — the project presentation with results, charts, and conclusions.
 
 ---
 
@@ -71,7 +71,7 @@ jupyter notebook
 
 - Cleaned datasets (`final_cleaned_movies_data_f.csv`, `finaldata.csv`) for analysis and ML experiments.  
 - Notebook-based pipeline showing data extraction, processing, and modeling steps.  
-- `Final_Presentation.pdf` summarizing findings and visualizations. citeturn0view0
+- `Final_Presentation.pdf` summarizing findings and visualizations.
 
 ---
 
